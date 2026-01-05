@@ -91,10 +91,6 @@ The dataset contains structured ride-level information including:
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## ✅ Skills Demonstrated
 
 - SQL Query  
